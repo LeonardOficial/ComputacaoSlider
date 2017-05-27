@@ -1,0 +1,159 @@
+
+.modal .modal-footer {
+  text-align: center;
+}
+.modal .modal-footer button {
+  margin-right: 2.5%;
+  width: 95%;
+}
+.modal .modal-sec h2 {
+  
+}
+.modal .modal-sec img {
+  border: 1px solid red;
+  width: 100%;
+}
+.modal .overflow {
+  height: 500px;
+  overflow-y: scroll;
+}
+
+.row {
+  margin: 0px;
+  width: 100%;
+}
+.aside-50 {
+  clear: both;
+  display: inline-block;
+  width: 50%;
+}
+.aside-3 {
+  border: 1px solid #303030;
+  width: calc(100%/3);
+}
+.square-text {
+  margin: 0px;
+  padding: 0px;
+}
+.square-text p {
+  font-size: 32px;
+  padding: 20px;
+  text-align: center;
+}
+.square-list {
+  border: 1px solid #303030;
+  width: 60%;
+}
+.square-list > img {
+  border: 1px solid #fff;
+  border-radius: 100%;
+  display: inline-block;
+  height: 140px;
+  margin-left: 17%;
+  margin-top: 16.5%;
+  position: absolute;
+  z-index: 10;
+  width: 140px;
+}
+.square-list ul {
+  background-color: #10A5A6;
+  border: 1px solid #303030;
+  display: inline-block;
+  list-style-type: none;
+  padding: 0px 0px;
+  width: 80%;
+}
+.square-list li { 
+  box-shadow: 0px 2px 8px black;
+  border-radius: 100%;
+  display: inline-block;
+  margin: 7.5%;
+  text-align: center;
+  transition: 1s;
+  width: 35%;
+}/*
+.square-list li:hover {
+  margin: 5.5%;
+  width: 38%;
+}*/
+.square-list li img {
+  border: 1px solid black;
+  border-radius: 100%;
+  height: 100%;
+  width: 100%;
+}
+.inline-list {
+  border: 1px solid #fff;
+  box-shadow: 0px 1px 8px 1px black;
+  list-style-type: none;
+  padding: 6px 4px;
+  width: 100%;
+}
+.inline-list li {
+  display: inline-block;
+  font-weight: bold;
+  text-align: center;
+  width: 25%;
+}
+.inline-list li img {
+  border: 1px solid #fff;
+  /*border-radius: 100%;*/
+  height: 100px;
+  margin-bottom: 4px;
+  width: 100px;
+}
+.row-50 {
+  /*height: 50%;*/
+}
+.round-right {
+  border-bottom-right-radius: 100px;
+  border-top-right-radius: 100px;
+}
+.round-left {
+  border-bottom-left-radius: 100px;
+  border-top-left-radius: 100px;
+}
+.row-50 img {
+  border-radius: 2%;
+  height: 50%;
+}
+.row-50 .square-text {
+  
+}
+.row-50 .full-row {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+
+
+.ondeAtua .inline-list {
+  background-color: #fff;
+  margin-bottom: -10px;
+  z-index: 10;
+}
+.ondeAtua .inline-list li {
+  border: 1px solid black;
+  border-top: none;
+  border-bottom: none;
+  width: calc(100%/3);
+}
+.tag {
+  background-color: #292928;
+  border: 4px solid #A2D24E;
+  color: #fff;
+  display: inline-block;
+  margin-top: 26px;
+  width: 94%;
+  padding: 20px;
+}
+.foo p {
+  color: blue;
+  margin: 0px;
+  padding: 4px;
+}
+
+
+
+
+
